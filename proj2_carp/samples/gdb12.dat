@@ -1,0 +1,32 @@
+NAME : gdb12
+VERTICES : 13
+DEPOT : 1
+REQUIRED EDGES : 23
+NON-REQUIRED EDGES : 0
+VEHICLES : 7
+CAPACITY : 35
+TOTAL COST OF REQUIRED EDGES : 334
+NODES       COST         DEMAND
+1   2   5        7
+1   3   7        12
+1   4   10        15
+1   5   19        1
+2   3   16        13
+2   6   8        8
+2   7   9        16
+2   8   14        7
+3   6   11        3
+4   5   11        15
+4   10   26        8
+4   11   30        16
+5   10   3        11
+6   10   13        14
+6   12   17        4
+7   9   30        3
+8   9   18        1
+8   12   21        5
+9   13   8        9
+10   11   15        14
+11   12   19        15
+11   13   12        1
+12   13   14        14

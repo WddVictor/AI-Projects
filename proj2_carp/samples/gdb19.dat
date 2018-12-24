@@ -1,0 +1,20 @@
+NAME : gdb19
+VERTICES : 8
+DEPOT : 1
+REQUIRED EDGES : 11
+NON-REQUIRED EDGES : 0
+VEHICLES : 3
+CAPACITY : 27
+TOTAL COST OF REQUIRED EDGES : 45
+NODES       COST         DEMAND
+1   2   4        8
+1   4   3        3
+1   5   1        5
+1   6   2        8
+2   3   1        4
+2   4   9        6
+2   5   5        1
+2   7   2        9
+5   7   7        9
+6   8   5        5
+7   3   6        8

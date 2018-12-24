@@ -1,0 +1,45 @@
+NAME : gdb18
+VERTICES : 9
+DEPOT : 1
+REQUIRED EDGES : 36
+NON-REQUIRED EDGES : 0
+VEHICLES : 5
+CAPACITY : 37
+TOTAL COST OF REQUIRED EDGES : 158
+NODES       COST         DEMAND
+1   2   3        2
+1   3   5        7
+1   4   6        1
+1   5   6        3
+1   6   4        1
+1   7   4        1
+1   8   5        5
+1   9   8        8
+2   3   6        4
+2   4   1        4
+2   5   3        3
+2   6   7        5
+2   7   4        6
+2   8   5        1
+2   9   4        2
+3   4   5        8
+3   5   7        6
+3   6   7        6
+3   7   7        4
+3   8   7        2
+3   9   3        7
+4   5   5        2
+4   6   3        3
+4   7   1        5
+4   8   1        7
+4   9   3        5
+5   6   7        1
+5   7   4        1
+5   8   7        7
+5   9   8        8
+6   7   6        8
+6   8   1        4
+6   9   1        6
+7   8   1        5
+7   9   2        2
+8   9   1        3
