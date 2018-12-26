@@ -239,12 +239,10 @@ def calc_ws(alpha, data_arr, class_labels):
 
 def test_data(w:np.mat,b:float,x:np.mat)->float:
     result = x*w+b
-    if result>1:
+    if result>0:
         return 1
-    elif result<-1:
-        return -1
     else:
-        return result
+        return -1
 
 def test_file(w:np.mat,b:float,test_path:str):
     test_set, test_label = resolve_file(test_path)
